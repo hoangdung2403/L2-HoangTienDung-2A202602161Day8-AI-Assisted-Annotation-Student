@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0082.jpg,xe ở làn giữa bên trái,edited,Box AI chưa bao phủ đủ toàn bộ thân xe nên chỉnh lại ranh giới box theo thân xe quan sát được
+1,frame_0090.jpg,xe màu tối ở làn bên phải,accepted,Box bao phủ đúng một xe và ranh giới phù hợp với phần thân xe quan sát được
+1,frame_0103.jpg,box trùng trên xe ở phía bên phải,deleted,Box dư/trùng với xe đã có box khác nên xóa để mỗi xe chỉ có một box
